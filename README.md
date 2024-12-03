@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheadirk
+- 👋 Hi, I’m @sheadirk (Derek E. Shea)
 - 👀 I’m interested in fish and freshwater mussels.
 - 🌱 I’m currently learning SQL and playing around with C++
 - 💞️ I’m looking to collaborate on data science projects!
