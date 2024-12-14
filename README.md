@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheadirk (Derek E. Shea)
 - 👀 I’m interested in fish, freshwater mussels, and water quality. 
-- 🌱 I’m currently working with Bayesian regression models as well as improving my SQL skills.
+- 🌱 I’m currently working with Bayesian regression models and improving my SQL skills.
 - 💞️ I’m looking to collaborate on data science and GIS projects.
 - 📫 Reach me @ dshea30ss@gmail.com to collaborate or discuss projects!
 
